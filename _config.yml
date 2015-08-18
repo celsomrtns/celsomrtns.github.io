@@ -1,0 +1,17 @@
+# Site settings
+title: Design Zero
+header-img: img/home-bg.jpg
+email: eu@celsomartins.com
+description: "Tudo pra você começar do Zero."
+baseurl: ""
+url: "celsomrtns.github.io"
+twitter_username: celso_martins
+github_username:  celsomrtns
+facebook_username:  celsojnr
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
